@@ -1,7 +1,7 @@
-# bluestars HELPER
+# bluestars.github.io
 > **[DISCORD SERVER](https://discord.gg/Eg2MkNp7zF)**
 > `CLICK FOR BUY HELPER`
-
+<label for="kontol">help</label>
 # Command And Fitur
 > **BlueStara Fitur**
 - block sdb                                                      
