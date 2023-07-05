@@ -16,3 +16,4 @@
 - history drop\collect
 - fast buy dl/bgl/megaphone
 - auto consume
+theme: hecker
