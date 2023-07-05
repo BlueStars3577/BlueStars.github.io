@@ -1,7 +1,8 @@
-# bluestars.github.io
+# bluestars HELPER
 > **[DISCORD SERVER](https://discord.gg/Eg2MkNp7zF)**
 > `CLICK FOR BUY HELPER`
 
+# Command And Fitur
 > **BlueStara Fitur**
 - block sdb                                                      
 - wrench surg\ban\pull\kick\trade
